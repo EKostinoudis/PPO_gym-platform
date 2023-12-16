@@ -1,0 +1,9 @@
+-e git+https://github.com/cycraig/gym-platform#egg=gym_platform
+gym==0.10.5
+pygame
+numpy
+ray[tune,rllib]==2.8.0
+torch
+gymnasium
+seaborn
+moviepy
